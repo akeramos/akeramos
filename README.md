@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akeramos
-- 👀 I’m interested in girl, obviously. but coding for sure. why not.
+- 👀 I’m interested in ?, obviously. but coding for sure. why not.
 - 🌱 I’m currently learning Kotlin, done with C++, C, phyton, Javascript.
 - 💞️ I’m looking to collaborate on nothing. Yes, nothing
 - 📫 How to reach me ? You might not want it. i have nothing to offer.
