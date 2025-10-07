@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akeramos
 - 👀 I’m interested in ?, obviously. but coding for sure. why not.
-- 🌱 I’m currently learning Kotlin, done with C++, C, phyton, Javascript.
-- 💞️ I’m looking to collaborate on nothing. Yes, nothing
+- 🌱 Done with C++, C, phyton, Javascript, Kotlin, and Zebra
+- 💞️ I’m looking to collaborate on nothing. Yes, nothing cause im so lazy.
 - 📫 How to reach me ? You might not want it. i have nothing to offer.
 
 <!---
